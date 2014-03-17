@@ -1,4 +1,3 @@
-S14-R10
-=======
+# 6.005 Spring 14 Recitation 10: Message Passing
 
-spring14/recitations/r10-concurrency
+Message passing with blocking queues
